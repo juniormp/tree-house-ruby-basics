@@ -1,0 +1,4 @@
+# Logfile created on 2017-03-03 15:34:32 -0300 by logger.rb/56815
+I, [2017-03-03T15:34:32.064426 #20797]  INFO -- : This is an info message
+I, [2017-03-03T15:34:53.139007 #20846]  INFO -- : This is an info message
+D, [2017-03-03T15:34:53.139054 #20846] DEBUG -- : This is a debugging message
